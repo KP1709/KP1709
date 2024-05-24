@@ -1,5 +1,14 @@
 ![Kareena's Github Banner](https://github.com/KP1709/KP1709/assets/63492101/3ef7ef49-cdf6-490b-bc24-0bb34911a32f)
 
+<!--![Kareena's Github stats](https://github-readme-stats.vercel.app/api?username=KP1709&hide=contribs,prs)  ![Kareena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KP1709&hide_progress=true) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KP1709&theme=nord" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=compact&hide_progress=true&rank_icon=github&card_width=300&theme=nord" />
+</a>
+
 <!--
 **KP1709/KP1709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +60,9 @@ Here are some ideas to get you started:
 
 ### Object-Oriented Programming
 ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Security 
+![Kali Linux badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Mobile App Development
 ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
