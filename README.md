@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 
 ## 🎓 ⌨️ Tools and technologies I've used at university
 
-#### Object-Oriented Programming
+### Object-Oriented Programming
 ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### Mobile App Development
+### Mobile App Development
 ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dotnet Maui badge](https://img.shields.io/badge/.netmaui-512BD4?style=for-the-badge)
 
-#### Data Science / Machine Learning
+### Data Science / Machine Learning
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scikit-Learn badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
