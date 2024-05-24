@@ -2,10 +2,10 @@
 
 <!--![Kareena's Github stats](https://github-readme-stats.vercel.app/api?username=KP1709&hide=contribs,prs)  ![Kareena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KP1709&hide_progress=true) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KP1709&theme=nord" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=compact&hide_progress=true&rank_icon=github&card_width=310&theme=nord" />
 </a>
 
