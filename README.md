@@ -4,6 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=normal&hide_progress=true&rank_icon=github&langs_count=15&card_width=700&custom_title=Main&#8200;Languages&theme=nord" />
 </a>
 
+<br></br>
   
 ## 👩🏽‍💻 About me
 I'm a final-year computer science student who caught the bug for front-end/web development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
