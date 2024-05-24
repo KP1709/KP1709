@@ -1,4 +1,5 @@
-![Kareena's Github Banner](https://github.com/KP1709/KP1709/assets/63492101/14fe4a0f-0feb-4e6e-868a-d3b319951189)
+![Kareena's Github Banner](https://github.com/KP1709/KP1709/assets/63492101/7d3b1343-a1c4-410d-b36d-2542a5f850eb)
+
 
 <!--![Kareena's Github stats](https://github-readme-stats.vercel.app/api?username=KP1709&hide=contribs,prs)  ![Kareena's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KP1709&hide_progress=true) -->
 
