@@ -55,12 +55,19 @@ Here are some ideas to get you started:
 ### Mobile App Development
 ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Dotnet Maui badge](https://img.shields.io/badge/.netmaui-512BD4?style=for-the-badge)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ### Data Science / Machine Learning
 ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Scikit-Learn badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+## 📱 Contact
+LinkedIn - https://www.linkedin.com/in/kareena-patel-web-software-developer/  
+Portfolio - https://kareenapatel.netlify.app/  
+
 
 
 
