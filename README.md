@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### Mobile App Development
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnetmaui&logoColor=white)
+![image](https://img.shields.io/badge/.netmaui-512BD4?style=for-the-badge)
 
 #### Data Science / Machine Learning
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
