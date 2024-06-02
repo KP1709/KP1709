@@ -7,7 +7,7 @@
 <br></br>
   
 ## 👩🏽‍💻 About me
-I'm a final-year computer science student who caught the bug for front-end/web development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
+I'm a computer science graduand who caught the bug for front-end/web development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
 
 A second-year module (Software Engineering) pushed me to code a basic project using HTML, CSS and Bootstrap. After the module finished, I continued to learn front-end development. I've learned about Responsive design and Javascript (including the basics of React). Additionally, I've experimented with tools including Penpot and Font Awesome.  
 
