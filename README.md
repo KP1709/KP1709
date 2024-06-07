@@ -1,7 +1,7 @@
 ![Kareena's Github Banner](https://github.com/KP1709/KP1709/assets/63492101/7d3b1343-a1c4-410d-b36d-2542a5f850eb)
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=normal&hide_progress=true&rank_icon=github&langs_count=15&card_width=700&custom_title=Main&#8200;Languages&theme=nord" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=normal&hide_progress=true&rank_icon=github&langs_count=15&card_width=700&custom_title=Languages&#8200;Explored&theme=nord" />
 </a>
 
 <br></br>
