@@ -37,7 +37,7 @@ Languages| Databases | Development tools | Other | Assets | Frameworks |
 <br></br>
 
 ## 🎓 ⌨️ Tools and technologies I've used at university
-OOP | Security | Mobile App Development | Data Science / LLM |
+OOP | Security | Mobile App Development | Data Science / ML and AI |
 :-----------------------:|:----------: |:-------------------:| :------------:
 ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Kali Linux badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ||| ![Dotnet Maui badge](https://img.shields.io/badge/.netmaui-512BD4?style=for-the-badge)  |![Scikit-Learn badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
