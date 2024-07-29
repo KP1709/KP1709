@@ -13,7 +13,7 @@ A second-year module (Software Engineering) pushed me to code a basic project us
 
 The technologies and languages I've learned independently and in my undergraduate studies have enabled me to take on a challenge for my dissertation. FastAPI (Python), Jinja2Templating and PostgreSQL are some technologies I have learnt and used in my project.  
 
-After completing my degree, I am eager to pursue a career in the field of web development.  
+I finished my degree in 2024 obtaining a First Class in Computer Science (with Honours). I am eager to pursue a career in the field of web development.  
 
 I am currently learning React Router and SASS but I'm eager to explore other tools and languages in the future such as Vue.js.  
 
