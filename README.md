@@ -7,7 +7,7 @@
 <br></br>
   
 ## 👩🏽‍💻 About me
-I'm a computer science graduate who caught the bug for front-end/web development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
+I'm a computer science graduate who caught the bug for front-end development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
 
 A second-year module (Software Engineering) pushed me to code a basic project using HTML, CSS and Bootstrap. After the module finished, I continued to learn front-end development. I've learned about Responsive design and Javascript (including the basics of React). Additionally, I've experimented with tools including Penpot and Font Awesome.  
 
@@ -15,7 +15,7 @@ The technologies and languages I've learned independently and in my undergraduat
 
 I finished my degree in May 2024 obtaining a First Class in Computer Science (with Honours). I am eager to pursue a career in the field of web development.  
 
-I am currently learning React Router and SASS but I'm eager to explore other tools and languages in the future such as Vue.js.  
+I am currently learning React Router and Typescript but I'm eager to explore other tools and languages in the future such as Vue.js.  
 
 <br></br>
 
@@ -32,7 +32,7 @@ Languages| Databases | Development tools | Other | Assets | Frameworks |
 ## 🔎 What I'm currently exploring
 ![SASS badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React-Router badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jQuery badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br></br>
 
