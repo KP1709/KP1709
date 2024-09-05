@@ -42,10 +42,4 @@ OOP | Security | Mobile App Development | Data Science / ML and AI |
 ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Kali Linux badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![C# badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) | ![R badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ||| ![Dotnet Maui badge](https://img.shields.io/badge/.netmaui-512BD4?style=for-the-badge)  |![Scikit-Learn badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 |||![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) |![Pandas badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-||||![Numpy badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br></br>
-
-## 📱 Contact
-LinkedIn - https://www.linkedin.com/in/kareena-patel-web-software-developer/  
-Portfolio - https://kareenapatel.netlify.app/  
+||||![Numpy badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) 
