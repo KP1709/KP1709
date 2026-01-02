@@ -1,20 +1,13 @@
 ![Kareena's Github Banner](https://github.com/KP1709/KP1709/assets/63492101/7d3b1343-a1c4-410d-b36d-2542a5f850eb)
 
-<a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KP1709&layout=normal&hide_progress=true&rank_icon=github&langs_count=15&card_width=700&custom_title=Languages&#8200;Explored&theme=nord" />
-</a>
-
 <br></br>
   
 ## 👩🏽‍💻 About me
-I'm a computer science graduate who caught the bug for front-end development. Even though I was exposed to web development briefly throughout secondary school and Sixth Form, it took me until university to realise my interest.  
+I'm a frontend developer working in digital healthcare. I caught the bug for front-end development during my computer science degree. Even though I was exposed to web development throughout secondary school and Sixth Form, it took me until university to realise my interest. 
 
-A second-year module (Software Engineering) pushed me to code a basic project using HTML, CSS and Bootstrap. After the module finished, I continued to learn front-end development. I've learned about Responsive design and Javascript (including the basics of React). Additionally, I've experimented with tools including Penpot and Font Awesome.  
+Whilst at university, I had the opportunity to explore various technologies, including Python (FastAPI, Jinja2Templating and data science), C# with .NET MAUI for mobile app development, Supabase and PostgreSQL, to name a few. 
 
-The technologies and languages I've learned independently and in my undergraduate studies have enabled me to take on a challenge for my dissertation. FastAPI (Python), Jinja2Templating and PostgreSQL are some technologies I have learnt and used in my project.  
-
-I finished my degree in May 2024 obtaining a First Class in Computer Science (with Honours).  
-I'm currently a graduate front-end developer working for a digital healthcare company.  
+After completing a software engineering module in my second year, I dove into front-end development and continued learning even after graduating. It led me to learn React and Typescript, which I primarily work with. Today I'm continuing to enhance my web development skills.
 
 <br></br>
 
