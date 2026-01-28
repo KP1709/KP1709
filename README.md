@@ -1,6 +1,6 @@
 # Hi there, I'm Kareena ✌🏼
 
-## Frontend developer | Computer Science Graduate | Passionate about creating digital tools
+## Frontend Developer | Computer Science Graduate | Passion for creating digital tools
 
 ### Main tools and languages
 ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -11,7 +11,6 @@
 ![Vite badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Supabase badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green)
-![VS code badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Main projects
 - <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - Tool to use in Scrabble to help check if a word is valid and to calculate the word's score
