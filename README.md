@@ -2,7 +2,7 @@
 
 ## Frontend Developer | Computer Science Graduate | Passion for creating digital tools
 
-### Main tools and languages
+### 🛠️ Main tools and languages
 ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Typescript badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cypress badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -12,10 +12,14 @@
 ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Supabase badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green)
 
-### Main projects
+### 💡 Main projects
 - <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - Tool to use in Scrabble to help check if a word is valid and to calculate the word's score
+  - React - Cypress - Typescript - APIs
 - <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
 - <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
+  - React - Typescript - Cypress - Styled Components
 - <a href='https://github.com/KP1709/CssColourExplorer'>CSS Colour Explorer</a> - Search CSS colours and lookup how a colour is represented in different codes
+  - React - Typescript - Supabase - Luxon
 - <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
+  - React - Cypress - Typescript - APIs
 
