@@ -16,10 +16,10 @@
 - <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - Tool to use in Scrabble to help check if a word is valid and to calculate the word's score
   - React - Cypress - Typescript - APIs
 - <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
-- <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
-  - React - Typescript - Cypress - Styled Components
-- <a href='https://github.com/KP1709/CssColourExplorer'>CSS Colour Explorer</a> - Search CSS colours and lookup how a colour is represented in different codes
   - React - Typescript - Supabase - Luxon
+- <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
+  - React - Typescript - Cypress - Styled Components 
 - <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
   - React - Cypress - Typescript - APIs
+ 
 
