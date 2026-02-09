@@ -1,6 +1,6 @@
 # Hi there, I'm Kareena ✌🏼
 
-## Frontend Developer | Computer Science Graduate | Passion for creating digital tools
+## 💻 Frontend Developer | 💈 Three-time hair donor | 📱 Passion for creating digital tools
 
 ### 🛠️ Main tools and languages
 ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -21,5 +21,6 @@
   - React - Typescript - Cypress - Styled Components 
 - <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
   - React - Cypress - Typescript - APIs
+
  
 
