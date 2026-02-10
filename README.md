@@ -1,6 +1,6 @@
 # Hi there, I'm Kareena ✌🏼
 
-## 💻 Frontend Developer | 💈 Three-time hair donor | 📱 Passion for creating digital tools
+## Frontend Developer | Three-time hair donor | Passionate about creating digital tools
 
 ### 🛠️ Main tools and languages
 ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -13,14 +13,7 @@
 ![Supabase badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green)
 
 ### 💡 Main projects
-- <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - Tool to use in Scrabble to help check if a word is valid and to calculate the word's score
-  - React - Cypress - Typescript - APIs
+- <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - A Scrabble tool to help check if a word is valid and to calculate the word's score
 - <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
-  - React - Typescript - Supabase - Luxon
 - <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
-  - React - Typescript - Cypress - Styled Components 
 - <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
-  - React - Cypress - Typescript - APIs
-
- 
-
