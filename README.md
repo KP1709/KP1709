@@ -14,6 +14,6 @@
 
 ### 💡 Main projects
 - <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - A Scrabble tool to help check if a word is valid and to calculate the word's score
-- <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
+- <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time (planning on v2)
 - <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
 - <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
