@@ -13,8 +13,8 @@
 ![Supabase badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=green)
 
 ### 💡 Main projects
-- <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - A Scrabble tool to help check if a word is valid and to calculate the word's score
-- <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
-  - <a href='https://github.com/KP1709/WorldCityTimezoneSearchV2'> Word City Timezone Search Version 2</a>
-- <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Converting plain text into cipher text by adjusting the alphabet mapping
-- <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
+- #### <a href='https://github.com/KP1709/ScrabbleWordCalculator'>Scrabble Word Calculator</a> - A Scrabble tool to help check if a word is valid and to calculate the word's score
+- #### <a href='https://github.com/KP1709/WorldCityTimezoneSearch'>World City Timezone Search</a> - Search for cities across the world to find out their current date and time
+  - #### <a href='https://github.com/KP1709/WorldCityTimezoneSearchV2'> Word City Timezone Search Version 2</a>
+- #### <a href='https://github.com/KP1709/CaesarCipherTool'>Caesar Cipher Tool</a> - Convert plain text into cipher text by adjusting the alphabet mapping
+- #### <a href='https://github.com/KP1709/ColourInputDisplayerTS'>Colour Input Displayer</a> - Add, view and manage colours displayed in a list
